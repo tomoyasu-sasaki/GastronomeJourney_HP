@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+gastronomejourney_hp_specifications.md
+GastronomeJourney_実装進捗.md

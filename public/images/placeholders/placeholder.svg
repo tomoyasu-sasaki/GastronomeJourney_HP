@@ -1,0 +1,14 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#F5F5F5"/>
+  <path d="M400 300C400 333.137 373.137 360 340 360C306.863 360 280 333.137 280 300C280 266.863 306.863 240 340 240C373.137 240 400 266.863 400 300Z" fill="#E0E0E0"/>
+  <path d="M520 360C520 393.137 493.137 420 460 420C426.863 420 400 393.137 400 360C400 326.863 426.863 300 460 300C493.137 300 520 326.863 520 360Z" fill="#E0E0E0"/>
+  <path d="M400 240C400 206.863 426.863 180 460 180C493.137 180 520 206.863 520 240C520 273.137 493.137 300 460 300C426.863 300 400 273.137 400 240Z" fill="#E0E0E0"/>
+  <path d="M280 300C280 266.863 306.863 240 340 240C373.137 240 400 266.863 400 300C400 333.137 373.137 360 340 360C306.863 360 280 333.137 280 300Z" fill="#E0E0E0"/>
+  <path d="M200 240L600 240L600 360L200 360L200 240Z" fill="#E0E0E0"/>
+  <path d="M350 430L450 430L450 480L350 480L350 430Z" fill="#E0E0E0"/>
+  <path d="M230 120L570 120L570 200L230 200L230 120Z" fill="#E0E0E0"/>
+  <text x="400" y="170" font-family="Arial" font-size="36" text-anchor="middle" fill="#BDBDBD">ガストロノームジャーニー</text>
+  <text x="400" y="300" font-family="Arial" font-size="64" text-anchor="middle" fill="#BDBDBD">画像</text>
+  <text x="400" y="350" font-family="Arial" font-size="24" text-anchor="middle" fill="#BDBDBD">準備中</text>
+  <text x="400" y="465" font-family="Arial" font-size="18" text-anchor="middle" fill="#BDBDBD">PLACEHOLDER</text>
+</svg> 
